@@ -18,6 +18,8 @@ body{
 .box-container{
     display: flex;
     justify-content: center;
+    background-color: rgba(95, 158, 160, 0.771);
+
 }
 
 .red{
